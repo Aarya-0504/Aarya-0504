@@ -1,6 +1,8 @@
 ### Hi there 👋
 🌱I’m currently learning ML & MERN
+
 🔭 I’m currently working on internship project, bank statement analyser
+
 📫 How to reach me: aarya.patil@spit.ac.in
 
 <!--
