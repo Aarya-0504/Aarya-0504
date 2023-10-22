@@ -5,6 +5,7 @@
 
 📫 How to reach me: aarya.patil@spit.ac.in
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya-0504)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Aarya-0504/Aarya-0504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
