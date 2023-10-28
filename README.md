@@ -7,7 +7,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya-0504)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://komarev.com/ghpvc/?username=Aarya-0504&style=flat-square&color=blue" alt=""/>
+## Programming
+[![My Skills](https://skillicons.dev/icons?i=python,java,c)](https://skillicons.dev)
+
+## Frontend
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev)
+
+<!--<img src="https://komarev.com/ghpvc/?username=Aarya-0504&style=flat-square&color=blue" alt=""/>-->
 
 <!--
 **Aarya-0504/Aarya-0504** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
