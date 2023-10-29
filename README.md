@@ -11,7 +11,19 @@
 [![My Skills](https://skillicons.dev/icons?i=python,java,c)](https://skillicons.dev)
 
 ## Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,sass,)](https://skillicons.dev)
+
+## UI Libraries 
+[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,materialui)](https://skillicons.dev)
+
+## Backend
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,fastapi,tensorflow)](https://skillicons.dev)
+
+## Database
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
+
+## Tools
+[![My Skills](https://skillicons.dev/icons?i=postman,figma,git,github,gcp,vscode,blender,wordpress,regex,pr)](https://skillicons.dev)
 
 <!--<img src="https://komarev.com/ghpvc/?username=Aarya-0504&style=flat-square&color=blue" alt=""/>-->
 
