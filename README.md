@@ -5,8 +5,6 @@
 
 📫 How to reach me: aarya.patil@spit.ac.in
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya-0504)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Programming
 [![My Skills](https://skillicons.dev/icons?i=python,java,c)](https://skillicons.dev)
 
@@ -24,6 +22,8 @@
 
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=postman,figma,git,github,gcp,vscode,blender,wordpress,regex,pr)](https://skillicons.dev)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya-0504)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--<img src="https://komarev.com/ghpvc/?username=Aarya-0504&style=flat-square&color=blue" alt=""/>-->
 
