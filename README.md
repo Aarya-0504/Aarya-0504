@@ -6,10 +6,7 @@
 
 📫 How to reach me: aarya.patil@spit.ac.in
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aarya-0504&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aarya-0504&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 ## Programming
 [![My Skills](https://skillicons.dev/icons?i=python,java,c)](https://skillicons.dev)
@@ -29,7 +26,18 @@
 ## Tools
 [![My Skills](https://skillicons.dev/icons?i=postman,figma,git,github,gcp,vscode,blender,wordpress,regex,pr)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarya-0504)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aarya-0504&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aarya-0504&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Aarya-0504/Aarya-0504/output/snake.svg" alt="Snake animation" />
+
+###
 
 <!--<img src="https://komarev.com/ghpvc/?username=Aarya-0504&style=flat-square&color=blue" alt=""/>-->
 
