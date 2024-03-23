@@ -1,3 +1,4 @@
+## ![](https://komarev.com/ghpvc/?username=Aarya-0504)
 ### Hi there 👋
 🌱I’m currently learning ML & MERN
 
