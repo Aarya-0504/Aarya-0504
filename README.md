@@ -33,11 +33,7 @@
 
 ###
 
-<br clear="both">
-
-![Snake animation](https://github.com/Aarya-0504/Aarya-0504/blob/output/github-contribution-grid-snake.svg)
-
-###
+![Snake animation](https://raw.githubusercontent.com/Aarya-0504/Aarya-0504/output/github-contribution-grid-snake-dark.svg)
 
 <!--<img src="https://komarev.com/ghpvc/?username=Aarya-0504&style=flat-square&color=blue" alt=""/>-->
 
