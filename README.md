@@ -4,7 +4,7 @@
 
 
 ## ![](https://komarev.com/ghpvc/?username=Aarya-0504)
-<img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="320" height="320" style="margin-left: 20px;" />
+
 <div style="display: flex; align-items: center;">
   <div>
     <h3>Hi there 👋</h3>
