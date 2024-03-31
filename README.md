@@ -4,13 +4,13 @@
 
 
 ## ![](https://komarev.com/ghpvc/?username=Aarya-0504)
+<img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="320" height="320" style="margin-left: 20px;" />
 <div style="display: flex; align-items: center;">
   <div>
     <h3>Hi there 👋</h3>
     <p>I’m currently learning ML & MERN</p>
     <p>I’m currently working on an internship project, bank statement analyzer</p>
     <p>How to reach me: <a href="mailto:aarya.patil@spit.ac.in">aarya.patil@spit.ac.in</a></p>
-    <img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" width="320" height="320" style="margin-left: 20px;" />
   </div>
   
 </div>
